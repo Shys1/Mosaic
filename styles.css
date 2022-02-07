@@ -1,0 +1,96 @@
+.red {
+   background-color:#ff0000;
+}
+.orange {
+    background-color:#ff9900;
+}
+.yellow {
+    background-color:#ffff00;
+}
+.green {
+    background-color:#009900;
+}
+.blue {
+    background-color:#0066ff;
+}
+.pink {
+    background-color:#ff86f4;
+}
+.lavender {
+    background-color:#ccccff;
+}
+.peach {
+    background-color:#ffcccc;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 15px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    width:200px;
+    height:200px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
